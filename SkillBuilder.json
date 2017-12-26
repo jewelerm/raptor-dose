@@ -1,0 +1,1002 @@
+{
+  "languageModel": {
+    "types": [
+      {
+        "name": "Medicine",
+        "values": [
+          {
+            "id": "ACIDCITRATEDEXTROSE",
+            "name": {
+              "value": "Acid Citrate Dextrose",
+              "synonyms": [
+                "ACD"
+              ]
+            }
+          },
+          {
+            "id": "ACTIVATEDCHARCOAL",
+            "name": {
+              "value": "Activated Charcoal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ADEQUAN",
+            "name": {
+              "value": "Adequan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ALBON",
+            "name": {
+              "value": "Albon",
+              "synonyms": [
+                "Sulfadimethoxine"
+              ]
+            }
+          },
+          {
+            "id": "ALLOPURINOL",
+            "name": {
+              "value": "Allopurinol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "AMINOPHYLLINE",
+            "name": {
+              "value": "Aminophylline",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "AMPICILLIN",
+            "name": {
+              "value": "Ampicillin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "AMOXICILLIN",
+            "name": {
+              "value": "Amoxicillin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "AMOXICILLINWITHCLAVULLNICACID",
+            "name": {
+              "value": "Amoxicillin with clavulinic acid",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "AMPHOTERICINB",
+            "name": {
+              "value": "Amphotericin B",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ATROPINE",
+            "name": {
+              "value": "Atropine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "AZITHROMYCIN",
+            "name": {
+              "value": "Azithromycin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "BARIUMSULFATE",
+            "name": {
+              "value": "Barium sulfate",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "BUPIVICAINE",
+            "name": {
+              "value": "Bupivicaine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "BUPRENORPHINE",
+            "name": {
+              "value": "Buprenorphine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "BUTORPHANOL",
+            "name": {
+              "value": "Butorphanol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CAEDTA",
+            "name": {
+              "value": "C.a.E.D.T.A.",
+              "synonyms": [
+                "Calcium disodium versenate"
+              ]
+            }
+          },
+          {
+            "id": "CAGLUBINOATE",
+            "name": {
+              "value": "C.a. Glubinoate",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CAGLUCONATE10",
+            "name": {
+              "value": "C.a. Gluconate 10%",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CAGLUCONATE23",
+            "name": {
+              "value": "C.a. Gluconate 23%",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CARNIDAZOLE",
+            "name": {
+              "value": "Carnidazole",
+              "synonyms": [
+                "Spartix"
+              ]
+            }
+          },
+          {
+            "id": "CARPOFEN",
+            "name": {
+              "value": "Carpofen",
+              "synonyms": [
+                "Rimadyl"
+              ]
+            }
+          },
+          {
+            "id": "CEFADROXIL",
+            "name": {
+              "value": "Cefadroxil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CEFATOXIME",
+            "name": {
+              "value": "Cefatoxime N.a.",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CEFAZOLIN",
+            "name": {
+              "value": "Cefazolin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CEFTIOFUR",
+            "name": {
+              "value": "Ceftiofur",
+              "synonyms": [
+                "Naxcel"
+              ]
+            }
+          },
+          {
+            "id": "CEFTRIAXONE",
+            "name": {
+              "value": "Ceftriaxone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CEPHALEXIN",
+            "name": {
+              "value": "Cephalexin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CEPHALOTHIN",
+            "name": {
+              "value": "Cephalothin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CHLOROQUINE",
+            "name": {
+              "value": "Chloroquine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CLINDAMYCIN",
+            "name": {
+              "value": "Clindamycin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CLOMPIRAMINE",
+            "name": {
+              "value": "Clomipramine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "CLOTRIMAZOLE",
+            "name": {
+              "value": "Clotrimazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "COLCHICINE",
+            "name": {
+              "value": "Colchicine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "DEXAMETHASONE",
+            "name": {
+              "value": "Dexamethasone",
+              "synonyms": [
+                "Dex s.p."
+              ]
+            }
+          },
+          {
+            "id": "DEXTROSEFIFTY",
+            "name": {
+              "value": "Dextrose 50%",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "DIAZEPAM",
+            "name": {
+              "value": "Diazepam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "DIMERCAPTOSUCCINICACID",
+            "name": {
+              "value": "Dimercaptosuccinic acid",
+              "synonyms": [
+                "d.m.s.a."
+              ]
+            }
+          },
+          {
+            "id": "DYPHENHYDRAMIN",
+            "name": {
+              "value": "Diphenhydramine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "DOXAPRAM",
+            "name": {
+              "value": "Doxapram",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "DOXYCYCLINE",
+            "name": {
+              "value": "Doxycycline",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ENROFLOXACIN",
+            "name": {
+              "value": "Enrofloxacin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "EPINEPHRINE",
+            "name": {
+              "value": "Epinephrine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "FTEN",
+            "name": {
+              "value": "F.10",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "FENBENDAZOLE",
+            "name": {
+              "value": "Fenbendazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "FIPRONIL",
+            "name": {
+              "value": "Fipronil",
+              "synonyms": [
+                "Frontline"
+              ]
+            }
+          },
+          {
+            "id": "FLUCONAZOLE",
+            "name": {
+              "value": "Fluconazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "FLUMAZENIL",
+            "name": {
+              "value": "Flumazenil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "FLUNIXIN",
+            "name": {
+              "value": "Flunixin",
+              "synonyms": [
+                "Banamine"
+              ]
+            }
+          },
+          {
+            "id": "FUROSEMIDE",
+            "name": {
+              "value": "Furosemide",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "GLUCOSAMINE",
+            "name": {
+              "value": "Glucosamine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "HALOPERIDOL",
+            "name": {
+              "value": "Haloperidol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "HEPARIN",
+            "name": {
+              "value": "Heparin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "HETASTARCH",
+            "name": {
+              "value": "Hetastarch",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "HYALURANIDASE",
+            "name": {
+              "value": "Hyaluranidase",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "IRONDEXTRAN",
+            "name": {
+              "value": "Iron Dextran",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ISOXSUPRINE",
+            "name": {
+              "value": "Isoxsuprine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ITRACONAZOLE",
+            "name": {
+              "value": "Itraconazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "IVERMECTIN",
+            "name": {
+              "value": "Ivermectin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "LACTULOSE",
+            "name": {
+              "value": "Lactulose",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "LEVOTHYROXINE",
+            "name": {
+              "value": "Levothyroxine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "LIDOCAINE",
+            "name": {
+              "value": "Lidocaine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "KETAMINE",
+            "name": {
+              "value": "Ketamine",
+              "synonyms": [
+                "Medetomidine"
+              ]
+            }
+          },
+          {
+            "id": "KETOCONAZOLE",
+            "name": {
+              "value": "Ketoconazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "MAGNESIUMSULFATE",
+            "name": {
+              "value": "Magnesium Sulfate",
+              "synonyms": [
+                "Epsom salts"
+              ]
+            }
+          },
+          {
+            "id": "MANNITOL",
+            "name": {
+              "value": "Mannitol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "MEFLOQUINE",
+            "name": {
+              "value": "Mefloquine",
+              "synonyms": [
+                "Larium"
+              ]
+            }
+          },
+          {
+            "id": "MELOXICAM",
+            "name": {
+              "value": "Meloxicam",
+              "synonyms": [
+                "Metacam"
+              ]
+            }
+          },
+          {
+            "id": "METHYLPREDNISONEACETATE",
+            "name": {
+              "value": "Methylprednisone acetate",
+              "synonyms": [
+                "Depo medrol"
+              ]
+            }
+          },
+          {
+            "id": "METOCLOPRAMIDE",
+            "name": {
+              "value": "Metoclopramide",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "METRONIDAZOLE",
+            "name": {
+              "value": "Metronidazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "MIDAZOLAM",
+            "name": {
+              "value": "Midazolam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "MILKTHISTLE",
+            "name": {
+              "value": "Milk Thistle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "MINERALOIL",
+            "name": {
+              "value": "Mineral oil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "NALBUPHINE",
+            "name": {
+              "value": "Nalbuphine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "NITENPYRAM",
+            "name": {
+              "value": "Nitenpyram",
+              "synonyms": [
+                "Capstar"
+              ]
+            }
+          },
+          {
+            "id": "NYSTATIN",
+            "name": {
+              "value": "Nystatin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "ORBIFLOXACIN",
+            "name": {
+              "value": "Orbifloxacin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "OXYGLOBIN",
+            "name": {
+              "value": "Oxyglobin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PEANUTOIL",
+            "name": {
+              "value": "Peanut oil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PENTOXYFILLINE",
+            "name": {
+              "value": "Pentoxyfilline",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PIPERAZINE",
+            "name": {
+              "value": "Piperazine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PIPERICILLIN",
+            "name": {
+              "value": "Pipericillin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PONAZURIL",
+            "name": {
+              "value": "Ponazuril",
+              "synonyms": [
+                "Marquis"
+              ]
+            }
+          },
+          {
+            "id": "PRALIDOXIME",
+            "name": {
+              "value": "Pralidoxime",
+              "synonyms": [
+                "2 pam",
+                "2 p.a.m."
+              ]
+            }
+          },
+          {
+            "id": "PRAZIQUANTAL",
+            "name": {
+              "value": "Praziquantal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PREDNISONE",
+            "name": {
+              "value": "Prednisone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PRIMAQUINE",
+            "name": {
+              "value": "Primaquine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PSYLLIUM",
+            "name": {
+              "value": "Psyllium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PYRANTEL",
+            "name": {
+              "value": "Pyrantel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "PYRETHRIN",
+            "name": {
+              "value": "Pyrethrin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "SELAMECTIN",
+            "name": {
+              "value": "Selamectin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "SERTALINE",
+            "name": {
+              "value": "Sertaline",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "SUCRALFATE",
+            "name": {
+              "value": "Sucralfate",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "SULFAMETHAZINE",
+            "name": {
+              "value": "Sulfamethazine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "TERBINAFINE",
+            "name": {
+              "value": "Terbinafine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "TERBUTALINE",
+            "name": {
+              "value": "Terbutaline",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "TOLTAZURIL",
+            "name": {
+              "value": "Toltazuril",
+              "synonyms": [
+                "Baycox 2.5%"
+              ]
+            }
+          },
+          {
+            "id": "TRAMADOL",
+            "name": {
+              "value": "Tramadol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "TRIMETHOPRIMSULFADIAZINE",
+            "name": {
+              "value": "Trimethoprim Sulfadiazine",
+              "synonyms": [
+                "Tribrissen",
+                "Di Trim"
+              ]
+            }
+          },
+          {
+            "id": "TRIMETHPRIMSOLFAMTHOXAZOLE",
+            "name": {
+              "value": "Trimethoprim Sulfamthoxazole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ursodeoxycholic acid",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin A",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin D",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin E",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin A.D.E.",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin A.D.",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin B",
+              "synonyms": [
+                "Thiamine"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin C",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vitamin K",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Voriconazole",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "UnitOfMeasurement",
+        "values": [
+          {
+            "id": "GRAMS",
+            "name": {
+              "value": "grams",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "KILOGRAMS",
+            "name": {
+              "value": "kilograms",
+              "synonyms": [
+                "Kilo's",
+                "Kgs",
+                "Kigs"
+              ]
+            }
+          },
+          {
+            "id": "POUNDS",
+            "name": {
+              "value": "pounds",
+              "synonyms": [
+                "lbs"
+              ]
+            }
+          },
+          {
+            "id": "OUNCES",
+            "name": {
+              "value": "ounces",
+              "synonyms": [
+                "ozes"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "getmedicinedose",
+        "samples": [
+          "Get a medicine dose",
+          "Find dosage for a medicine",
+          "Lookup dosing for a medicine",
+          "Lookup a medicine dose",
+          "How much medicine should I give",
+          "Get dosage for a medicine",
+          "What is the dose for a medicine",
+          "I need the dose for {medicineName}",
+          "How much {medicineName} should I give to a {weight} {unitOfMeasurement} animal"
+        ],
+        "slots": [
+          {
+            "name": "medicineName",
+            "type": "Medicine",
+            "samples": [
+              "{medicineName}",
+              "I'm giving {medicineName}",
+              "Administering {medicineName}"
+            ]
+          },
+          {
+            "name": "weight",
+            "type": "AMAZON.NUMBER",
+            "samples": [
+              "The animal weighs {weight} kilograms",
+              "{weight}",
+              "{weight} kilo's",
+              "About {weight}"
+            ]
+          },
+          {
+            "name": "unitOfMeasurement",
+            "type": "UnitOfMeasurement",
+            "samples": [
+              "Yes",
+              "{unitOfMeasurement}"
+            ]
+          }
+        ]
+      }
+    ],
+    "invocationName": "medicine dosage"
+  },
+  "prompts": [
+    {
+      "id": "Elicit.Intent-getmedicinedose.IntentSlot-medicineName",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "What is the medicine you're administering?"
+        },
+        {
+          "type": "PlainText",
+          "value": "Tell me the name of the medicine"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getmedicinedose.IntentSlot-weight",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "How much does the animal weigh, in Kilograms?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getmedicinedose.IntentSlot-unitOfMeasurement",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "Is that Kilograms?"
+        }
+      ]
+    }
+  ],
+  "dialog": {
+    "intents": [
+      {
+        "name": "getmedicinedose",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "medicineName",
+            "type": "Medicine",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getmedicinedose.IntentSlot-medicineName"
+            }
+          },
+          {
+            "name": "weight",
+            "type": "AMAZON.NUMBER",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getmedicinedose.IntentSlot-weight"
+            }
+          },
+          {
+            "name": "unitOfMeasurement",
+            "type": "UnitOfMeasurement",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getmedicinedose.IntentSlot-unitOfMeasurement"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
